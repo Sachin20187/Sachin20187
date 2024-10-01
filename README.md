@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachin20187
-- 👀 I’m interested in java, HTML and CSS.
+- 👀 I’m interested in java, HTML, CSS and JavaScript.
 - 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me: sachinkumar.20187@gmail.com
 - 😄 Pronouns: He/Him
